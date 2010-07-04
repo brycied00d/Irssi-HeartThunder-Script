@@ -99,7 +99,7 @@ Irssi::command_bind('msg', 'sig_command_msg');
 #Irssi::command_bind('action', 'sig_command_msg');
 
 # Default debug=0
-Irssi::settings_add_bool('heartthunder', 'heartthunder_debug', 1);
+Irssi::settings_add_bool('heartthunder', 'heartthunder_debug', 0);
 # Default channels=#<3thunder
 Irssi::settings_add_str('heartthunder', 'heartthunder_channels', '#<3thunder');
 # Default prefix="<3 thunder"
