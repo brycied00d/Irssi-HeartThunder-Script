@@ -37,7 +37,7 @@ There are several settings that you can modify, although the defaults should be 
 
 To change a setting, use the `/set` Irssi command. 
 
-    /set heartthunder_channels #<3hunder|#otherchannel
+    /set heartthunder_channels #<3thunder|#otherchannel
 
 
 Footnote
